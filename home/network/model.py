@@ -1,7 +1,7 @@
 import six
 import tensorflow as tf
 
-import autohome.rank_lib as tfr
+import home.rank_lib as tfr
 from home.network.embedding import EmbeddingLayer
 from home.network.mlp import MLPLayer
 from home.network.nlp import NLPLayer
